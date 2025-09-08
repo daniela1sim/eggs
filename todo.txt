@@ -1,0 +1,19 @@
+reopen the game when crushing
+
+
+recieving gifts using image recogmition
+making a sound when a token ad is opened (also interrupt and close the code till using again)
+checking every 60 sec
+
+drone farming
+
+prestiege macro
+
+
+auto fueling
+
+welcome back message
+
+more utils
+
+save pngs for learning. (the gifts and ads "blink" so mayve record a short video of this as make a code that can distinguish between them, and make a loop while confidance is not high)
