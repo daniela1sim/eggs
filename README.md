@@ -7,8 +7,6 @@ Small utilities to automate a few repetitive actions in **Egg, Inc.** running in
 - Tap **drones** that pass through a learned circular zone
 - Auto-reopen the game if it crashes back to the BlueStacks **home screen**
 
-> ⚠️ Use responsibly and respect the game’s and platform’s Terms of Service.
-
 ---
 
 ## Folder layout
