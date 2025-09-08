@@ -165,8 +165,3 @@ Tuning (top of `run_drone_tapper.py`):
 - No ADB required for this flow (pure UI automation).  
 - If the game UI changes, simply re-run `learn_assets.py`.
 
----
-
-## Safety & ToS
-
-Automation may violate some games’ or platforms’ terms. Use at your own risk and only for personal/testing purposes.
